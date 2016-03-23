@@ -325,8 +325,6 @@ class MyHandler(FileSystemEventHandler):
                                 % (fast5file, err)
                             #print >> sys.stderr, err_string
                             print err_string
-			
-			    return ()
 
 			'''
                                                                                                 #               if dbname is not None:
